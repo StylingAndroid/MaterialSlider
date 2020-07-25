@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Material Slider</string>
+    <string name="label_format">Value: %1$.0f</string>
+</resources>

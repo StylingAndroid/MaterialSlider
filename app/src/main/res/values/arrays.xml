@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="double_slider_values">
+        <item>20</item>
+        <item>60</item>
+    </array>
+
+    <array name="triple_slider_values">
+        <item>20</item>
+        <item>60</item>
+        <item>100</item>
+    </array>
+</resources>
